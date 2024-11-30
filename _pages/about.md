@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Joshua Qu (屈嘉树), I'm a fourth year student from the school of Electrical Engineering, [Chongqing University](https://www.cqu.edu.cn/). Currently, I'm doing research intern at PSU under the guidence of Prof. [Suhang Wang](https://suhangwang.ist.psu.edu/). My research interests lie in **multi-modal learning** and **anomaly detection**.  
-You can find my CV [here](../assets/CV-Jiashu Qu.pdf)  
+My name is Joshua Qu (屈嘉树), I'm a fourth year student from the school of Electrical Engineering, [Chongqing University](https://www.cqu.edu.cn/). Currently, I'm doing research intern at PSU under the guidence of Prof. [Suhang Wang](https://suhangwang.ist.psu.edu/). My research interests lie in **multi-modal learning** and **anomaly detection**. You can find my CV [here](../assets/CV-Jiashu Qu.pdf)  
 **🤩 Seeking PhD opportunity for 2026 Fall**  
 
 # 🔥 News
