@@ -21,8 +21,8 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo.png"
-  name             : "Jiashu Qu"
+  avatar           : "photo.jpg"
+  name             : "Joshua (屈嘉树)"
   pronouns         : # example: "she/her"  
   bio              : "EE undergraduate student, interested in multi-modal learning & anomaly detection"
   location         : "Chongqing, CN"

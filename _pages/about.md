@@ -13,8 +13,9 @@ You can find my CV here: [CV](../assets/CV-Jiashu Qu.pdf)
 
 # 🔥 News
 - *2024.11*: &nbsp;🎉🎉 A new paper related to **video hallucination** is published, see the Preprint!  
+
 # 📖 Educations
-- *2021.06 - 2026.09 (now)*, School of Electrical Engineering, Chongqing University
+- *2021.06 - 2026.09 (now)*, School of Electrical Engineering, Chongqing University  
 
 # 🎖 Honors and Awards
 - *2024.10* Baosteel Education Fund (5/entire school) 
@@ -23,7 +24,7 @@ You can find my CV here: [CV](../assets/CV-Jiashu Qu.pdf)
 
 # 💻 Internships
 - *2023.09 - 2023.12*, [Sichuan Energy Internet Research Institute, Tsinghua University](https://www.tsinghua-eiri.org/), Sichuan, China.  
-- *2024.06 - 2024.11*, [Suhang Wang's lab, Pennsylvania State University](https://www.tsinghua-eiri.org/), Online.
+- *2024.06 - 2024.11*, [Suhang Wang's lab, Pennsylvania State University](https://suhangwang.ist.psu.edu/), Online.
 - *2024.12 - 2025.02*, [Institute for AI Industry Research, Tsinghua University](https://air.tsinghua.edu.cn/), Beijing, China.
 
 # ⚙️ Skills
