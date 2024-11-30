@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Joshua Qu's homepage"
+title: "Jiashu Qu's homepage"
 author_profile: true
 redirect_from: 
   - /about/
