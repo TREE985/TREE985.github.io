@@ -24,9 +24,9 @@ You can find my CV [here](../assets/CV-Jiashu Qu.pdf)
 - *2023.10* National Scholarship (1%) 
 
 # 💻 Internships
-- *2023.09 - 2023.12*, [Tsinghua Sichuan Energy Internet Research Institute](https://www.tsinghua-eiri.org/),Sichuan.  
-- *2024.06 - 2024.11*, [Suhang Wang's lab, Pennsylvania State University](https://suhangwang.ist.psu.edu/),Online.
-- *2024.12 - 2025.02*, [Institute for AI Industry Research, Tsinghua University](https://air.tsinghua.edu.cn/),Beijing.
+- *2023.09 - 2023.12*, [Tsinghua Sichuan Energy Internet Research Institute](https://www.tsinghua-eiri.org/), Sichuan.  
+- *2024.06 - 2024.11*, [Suhang Wang's lab, Pennsylvania State University](https://suhangwang.ist.psu.edu/), Online.
+- *2024.12 - 2025.02*, [Institute for AI Industry Research, Tsinghua University](https://air.tsinghua.edu.cn/), Beijing.
 
 # ⚙️ Skills
 - Professional Software: MATLAB, Multisim, Proteus, UG NX   
