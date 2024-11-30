@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Jiashu Qu(屈嘉树)'s homepage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,14 +15,16 @@ You can find my CV here: [Jiashu Qu's CV](../assets/CV-Jiashu Qu.pdf)
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2021.06 - 2026.09 (now)*, School of Electrical Engineering, Chongqing University
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  
+- *2024.10* Baosteel Education Fund (5/entire school) 
+- *2024.10* National Scholarship (1%)  
+- *2023.10* National Scholarship (1%) 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.09 - 2023.12*, [Sichuan Energy Internet Research Institute, Tsinghua University](https://www.tsinghua-eiri.org/), Sichuan, China.  
+- *2024.12 - 2025.02*, [Institute for AI Industry Research, Tsinghua University](https://air.tsinghua.edu.cn/), Beijing, China.
 
 
 
