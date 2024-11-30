@@ -31,6 +31,7 @@ You can find my CV [here](../assets/CV-Jiashu Qu.pdf)
 # ⚙️ Skills
 - Professional Software: MATLAB, Multisim, Proteus, UG NX   
 - Programming: Python, C++, R
+- Language: English, Mandarin
 
 
 
