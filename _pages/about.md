@@ -17,6 +17,8 @@ You can find my CV [here](../assets/CV-Jiashu Qu.pdf)
   
 # 📖 Educations
 - *2021.06 - 2026.09 (now)*, School of Electrical Engineering, Chongqing University  
+    - <span style="font-size: smaller;"> Grade: 3.94/4.00 </span>
+    - <span style="font-size: smaller;"> Rank: 1/97 </span>
 
 # 🎖 Honors and Awards
 - *2024.10* Baosteel Education Fund (5/entire school) 
