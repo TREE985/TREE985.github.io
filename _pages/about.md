@@ -29,6 +29,9 @@ You can find my CV [here](../assets/CV-Jiashu Qu.pdf)
     - <span style="font-size: smaller;">Developed optimization algorithms for bidding strategies using GUROBI and MATLAB, enhancing the efficiency and profitability of operational bids</span>  
     - <span style="font-size: smaller;">“An Optimal Operation Strategy of Pumped Storage Plants for Maximizing the Benefits from Price Differences in Spot Market” in IEEE International Conference on Power Science and Technology (ICPST), 2024. DOI: [https://doi.org/10.1109/ICPST61417.2024.10601971]</span>  
 - *2024.06 - 2024.11*, [Suhang Wang's lab, Pennsylvania State University](https://suhangwang.ist.psu.edu/), Online.
+    - <span style="font-size: smaller;">Created the first benchmark addressing the hallucination problem of Vision-Language Models (VLMs) in video understanding</span>  
+    - <span style="font-size: smaller;">Reviewed existing literature on video understanding benchmark(e.g. POPE, InternVid, HALLUSIONBENCH), summarized testing methodologies, and proposed a more comprehensive test set for addressing the hallucination problem in video understanding.</span>  
+    - <span style="font-size: smaller;">Submitted to CVPR 2025</span>  
 - *2024.12 - 2025.02*, [Institute for AI Industry Research, Tsinghua University](https://air.tsinghua.edu.cn/), Beijing.
 
 # ⚙️ Skills
