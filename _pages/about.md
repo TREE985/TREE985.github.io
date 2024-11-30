@@ -25,7 +25,7 @@ You can find my CV here: [Jiashu Qu's CV](../assets/CV-Jiashu Qu.pdf)
 - *2023.09 - 2023.12*, [Sichuan Energy Internet Research Institute, Tsinghua University](https://www.tsinghua-eiri.org/), Sichuan, China.  
 - *2024.12 - 2025.02*, [Institute for AI Industry Research, Tsinghua University](https://air.tsinghua.edu.cn/), Beijing, China.
 
-# Skills
+# ⚙️ Skills
 - Professional Software: MATLAB, Multisim, Proteus, UG NX   
 - Programming: Python, C++, R
 
