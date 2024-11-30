@@ -7,7 +7,22 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+My name is Jiashu Qu(屈嘉树), I'm a fourth year student from the school of Electrical Engineering, [Chongqing University](https://www.cqu.edu.cn/). Currently I'm doing research intern at PSU under the guidence of Prof. [Suhang Wang](https://suhangwang.ist.psu.edu/). My research interests lie in **multi-modal learning** and **anomaly detection**.  
+You can find my CV here: [Jiashu Qu's CV](../assets/CV-Jiashu Qu.pdf)  
+**Seeking PhD opportunity for 2026 Fall**  
+
+# 🔥 News
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+
+# 📖 Educations
+- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+
+# 🎖 Honors and Awards
+- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  
+
+# 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
 A data-driven personal website
 ======
