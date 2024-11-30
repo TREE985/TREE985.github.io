@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jiashu Qu(屈嘉树)'s homepage"
+title: "Jiashu Qu (屈嘉树)'s homepage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,8 +12,7 @@ You can find my CV here: [Jiashu Qu's CV](../assets/CV-Jiashu Qu.pdf)
 **Seeking PhD opportunity for 2026 Fall**  
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-
+- *2024.11*: &nbsp;🎉🎉 A new paper related to **video hallucination** is published, see the Preprint!  
 # 📖 Educations
 - *2021.06 - 2026.09 (now)*, School of Electrical Engineering, Chongqing University
 
@@ -26,7 +25,9 @@ You can find my CV here: [Jiashu Qu's CV](../assets/CV-Jiashu Qu.pdf)
 - *2023.09 - 2023.12*, [Sichuan Energy Internet Research Institute, Tsinghua University](https://www.tsinghua-eiri.org/), Sichuan, China.  
 - *2024.12 - 2025.02*, [Institute for AI Industry Research, Tsinghua University](https://air.tsinghua.edu.cn/), Beijing, China.
 
-
+# Skills
+- Professional Software: MATLAB, Multisim, Proteus, UG NX   
+- Programming: Python, C++, R
 
 
 
