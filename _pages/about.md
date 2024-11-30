@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "Jiashu Qu (屈嘉树)'s homepage"
+title: "Jiashu Qu's homepage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-My name is Jiashu Qu(屈嘉树), I'm a fourth year student from the school of Electrical Engineering, [Chongqing University](https://www.cqu.edu.cn/). Currently I'm doing research intern at PSU under the guidence of Prof. [Suhang Wang](https://suhangwang.ist.psu.edu/). My research interests lie in **multi-modal learning** and **anomaly detection**.  
-You can find my CV here: [Jiashu Qu's CV](../assets/CV-Jiashu Qu.pdf)  
+My name is Joshua Qu (屈嘉树), I'm a fourth year student from the school of Electrical Engineering, [Chongqing University](https://www.cqu.edu.cn/). Currently I'm doing research intern at PSU under the guidence of Prof. [Suhang Wang](https://suhangwang.ist.psu.edu/). My research interests lie in **multi-modal learning** and **anomaly detection**.  
+You can find my CV here: [CV](../assets/CV-Jiashu Qu.pdf)  
 **Seeking PhD opportunity for 2026 Fall**  
 
 # 🔥 News
@@ -23,6 +23,7 @@ You can find my CV here: [Jiashu Qu's CV](../assets/CV-Jiashu Qu.pdf)
 
 # 💻 Internships
 - *2023.09 - 2023.12*, [Sichuan Energy Internet Research Institute, Tsinghua University](https://www.tsinghua-eiri.org/), Sichuan, China.  
+- *2024.06 - 2024.11*, [Suhang Wang's lab, Pennsylvania State University](https://www.tsinghua-eiri.org/), Online.
 - *2024.12 - 2025.02*, [Institute for AI Industry Research, Tsinghua University](https://air.tsinghua.edu.cn/), Beijing, China.
 
 # ⚙️ Skills
