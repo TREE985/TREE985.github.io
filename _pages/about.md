@@ -25,9 +25,9 @@ You can find my CV [here](../assets/CV-Jiashu Qu.pdf)
 
 # 💻 Internships
 - *2023.09 - 2023.12*, [Tsinghua Sichuan Energy Internet Research Institute](https://www.tsinghua-eiri.org/), Sichuan.
-    <span style="font-size: smaller;">Designed algorithms to simulate bidding behaviors of pumped-storage power stations based on various bidding methods in real markets</span>
-    <span style="font-size: smaller;">Developed optimization algorithms for bidding strategies using GUROBI and MATLAB, enhancing the efficiency and profitability of operational bids</span>
-    <span style="font-size: smaller;">“An Optimal Operation Strategy of Pumped Storage Plants for Maximizing the Benefits from Price Differences in Spot Market” in IEEE International Conference on Power Science and Technology (ICPST), 2024. DOI: [https://doi.org/10.1109/ICPST61417.2024.10601971]</span>
+    - <span style="font-size: smaller;">Designed algorithms to simulate bidding behaviors of pumped-storage power stations based on various bidding methods in real markets</span>  
+    - <span style="font-size: smaller;">Developed optimization algorithms for bidding strategies using GUROBI and MATLAB, enhancing the efficiency and profitability of operational bids</span>  
+    - <span style="font-size: smaller;">“An Optimal Operation Strategy of Pumped Storage Plants for Maximizing the Benefits from Price Differences in Spot Market” in IEEE International Conference on Power Science and Technology (ICPST), 2024. DOI: [https://doi.org/10.1109/ICPST61417.2024.10601971]</span>  
 - *2024.06 - 2024.11*, [Suhang Wang's lab, Pennsylvania State University](https://suhangwang.ist.psu.edu/), Online.
 - *2024.12 - 2025.02*, [Institute for AI Industry Research, Tsinghua University](https://air.tsinghua.edu.cn/), Beijing.
 
