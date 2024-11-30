@@ -14,6 +14,7 @@ You can find my CV here: [CV](../assets/CV-Jiashu Qu.pdf)
 # 🔥 News
 - *2024.11*: &nbsp;🎉🎉 A new paper related to **video hallucination** is published, see the Preprint!  
 
+  
 # 📖 Educations
 - *2021.06 - 2026.09 (now)*, School of Electrical Engineering, Chongqing University  
 
